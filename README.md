@@ -23,7 +23,7 @@ My list of recommended js library.
 - [Hammer](http://eightmedia.github.io/hammer.js) : Multitouch Library
 
 ## UI
-- [HTML5 Sortable](http://farhadi.ir/projects/html5sortable)
+- [HTML5 Sortable](http://farhadi.ir/projects/html5sortable) : create sortable lists and grids using native HTML5 drag and drop API
 
 ## Framework
 - [EmberJS](http://emberjs.com)
