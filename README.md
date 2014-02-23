@@ -11,7 +11,6 @@ My list of recommended js library.
 - [Formatting](#formatting)
 - [UI](#ui)
 - [Framework](#framework)
-- 
 
 ## Form
 - [Parsley](http://parsleyjs.org) : form validation
