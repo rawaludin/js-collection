@@ -15,6 +15,7 @@ My list of recommended js library.
 ## Form
 - [Parsley](http://parsleyjs.org) : form validation
 - [Momment](http://momentjs.com) : parsing, validating, manipulating, and formatting dates
+- [DropZone)(http://www.dropzonejs.com) : drag'n'drop file upload with progress and image preview
 
 ## Formatting
 - [Accounting](http://josscrowcroft.github.io/accounting.js) : number, money and currency formatting
